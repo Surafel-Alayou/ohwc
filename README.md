@@ -17,12 +17,6 @@ Based in Bahir Dar, the centre provides individualised support and therapeutic a
 - **Donations:** Provides information on how individuals and organisations can support the centre.
 - **Contact:** Offers communication details for visitors, supporters, and potential partners.
 
-## Technology Stack
-
-- **Frontend:** HTML, CSS and JavaScript
-- **Framework / UI:** Bootstrap
-- **Libraries:** AOS, Swiper, GLightbox and Font Awesome
-
 ## Purpose and Impact
 
 The website was developed to strengthen OHWC's online presence, increase public awareness, and connect the organisation with a wider community. By presenting its work, sharing the children's stories, and providing donation information, the platform helps encourage engagement and support for the centre's mission.
